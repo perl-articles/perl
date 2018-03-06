@@ -1,0 +1,6 @@
+miscellaneous/experiments/node_modules
+miscellaneous/design/all
+public/static/bundle
+node_modules
+.vscode
+webpack-stats.json
